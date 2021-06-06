@@ -8,8 +8,8 @@ svn co https://github.com/lihaixin/openwrt-udp2raw-speeder/trunk/udpspeeder
 #添加openclash
 git clone -b master https://github.com/vernesong/OpenClash.git
 #添加hello world
-git clone https://github.com/jerrykuku/lua-maxminddb.git package/my/lua-maxminddb
-git clone https://github.com/jerrykuku/luci-app-vssr.git package/my/luci-app-vssr
+git clone https://github.com/jerrykuku/lua-maxminddb.git
+git clone https://github.com/jerrykuku/luci-app-vssr.git
 
 #添加gost隧道
 svn co https://github.com/garypang13/openwrt-packages/trunk/gost
