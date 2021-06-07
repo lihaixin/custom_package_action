@@ -12,8 +12,8 @@ git clone https://github.com/jerrykuku/lua-maxminddb.git
 git clone https://github.com/jerrykuku/luci-app-vssr.git
 
 #添加gost隧道
-svn co https://github.com/garypang13/openwrt-packages/trunk/gost
-svn co https://github.com/immortalwrt/luci/trunk/applications/luci-app-gost
+svn co https://github.com/immortalwrt/immortalwrt/branches/openwrt-19.07/package/ctcgfw/gost
+svn co https://github.com/immortalwrt/immortalwrt/branches/openwrt-19.07/package/ctcgfw/luci-app-gost
 
 #添加应用过滤
 git clone https://github.com/destan19/OpenAppFilter.git
