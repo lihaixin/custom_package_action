@@ -11,4 +11,4 @@
 
 lede/下运行 或者openwrt/下运行
 
- `git clone https://github.com/lihaixin/small-package package/custom_package`
+ `git clone https://github.com/lihaixin/custom_package package/custom_package`
